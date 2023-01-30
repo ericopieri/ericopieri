@@ -1,4 +1,4 @@
-<p>🚀 Em constante aprendizado...</p>
+<p>Em constante aprendizado... 🚀</p>
 
 <div style="margin-top: 5%;">
 
