@@ -1,6 +1,6 @@
 <p>Em constante aprendizado... 🚀</p>
 
-<div style="margin-top: 5%;">
+<div style="margin-top: 10%;">
 
 ![Erico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericopieri&show_icons=true&theme=highcontrast)
 </div>
