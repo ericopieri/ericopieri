@@ -1,3 +1,5 @@
+# 🚀 Em constante aprendizado...
+
 <div style="margin-top: 5%;">
 
 ![Erico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericopieri&show_icons=true&theme=highcontrast)
