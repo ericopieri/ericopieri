@@ -1,31 +1,26 @@
-<p>- Em constante aprendizado... 🚀</p>
 
-<div style="margin-top: 20%;">
+<h3>Developer passionate about technology, currently pursuing a degree in Analysis and Development of Systems at the State University of Santa Catarina.</h3>
 
-![Erico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericopieri&show_icons=true&theme=highcontrast)
+With a background as a Computer Technician from the Federal Institute of Santa Catarina and experience in a multinational company, I specialize in creating efficient solutions. I thrive on tackling challenges and am open to opportunities for employment and new projects. Contact me!
+
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="bru-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
 </div>
 
-<div style="margin-top: 5%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericopieri&layout=compact&theme=highcontrast)](https://github.com/ericopieri/github-readme-stats)
-</div>
-
-#### | Tecnologias favoritas: 
-<div style="margin-top: 5%;"> 
-
-<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="VUEJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="center" alt="PYTHON" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="DJANGO" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
-
-</div>
-
-#### | Um pouco mais sobre mim:
-<div style="margin-top: 3%;">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pieri.erico)
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2eNu1KHn0obIDmhMxAwK5r?si=1c04979638f54650)
-</div>
+<br />
+<br />
+<i>"I am the way, the truth and the life. No one comes to the Father except through me."</i>
