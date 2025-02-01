@@ -1,7 +1,7 @@
 
 <h3>Developer passionate about technology, currently pursuing a degree in Analysis and Development of Systems at the State University of Santa Catarina.</h3>
 
-With a background as a Computer Technician from the Federal Institute of Santa Catarina and experience in a multinational company, I specialize in creating efficient solutions. I thrive on tackling challenges and am open to opportunities for employment and new projects. Contact me!
+With a background as a Computer Technician from the Federal Institute of Santa Catarina and experience in a multinational company, I specialize in creating efficient solutions. I thrive on tackling challenges and am open to new projects. Contact me!
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
