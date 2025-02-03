@@ -3,5 +3,4 @@
 I enjoy creating efficient solutions and turning ideas into reality through code. Always learning, always building.
 
 <br />
-<br />
 <i>"For the LORD God is a sun and shield; The LORD will give grace and glory; No good thing will He withhold From those who walk uprightly."</i>
