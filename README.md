@@ -1,4 +1,4 @@
-<h3>Developer passionate about technology, graduated as a Computer Technician from the Federal Institute of Santa Catarina.</h3>
+<h3>Developer passionate about technology, graduated as a IT Technician from the Federal Institute of Santa Catarina.</h3>
 
 I enjoy creating efficient solutions and turning ideas into reality through code. Always learning, always building 🚀
 
